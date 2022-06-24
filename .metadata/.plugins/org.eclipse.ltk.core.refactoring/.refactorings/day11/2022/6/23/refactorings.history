@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;day11.MainCalss01&apos; to &apos;MainClass01&apos;&#x0D;&#x0A;- Original project: &apos;day11&apos;&#x0D;&#x0A;- Original element: &apos;day11.MainCalss01&apos;&#x0D;&#x0A;- Renamed element: &apos;day11.MainClass01&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;MainCalss01&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;day11{MainCalss01.java[MainCalss01" matchStrategy="1" name="MainClass01" qualified="false" references="true" similarDeclarations="false" stamp="1654067547900" textual="false" version="1.0"/>
+</session>
