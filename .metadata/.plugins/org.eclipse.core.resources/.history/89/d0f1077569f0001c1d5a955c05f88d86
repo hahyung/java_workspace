@@ -1,5 +1,0 @@
-package studentcare;
-
-public interface StudentService {
-
-}

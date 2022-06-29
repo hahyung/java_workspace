@@ -1,5 +1,0 @@
-package care_lab;
-
-public interface CompanyService {
-
-}
